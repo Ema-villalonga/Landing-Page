@@ -597,4 +597,11 @@ footer {
         grid-template-columns: 1fr 2fr;
     }
 
+    .nav li {
+      display: flex;
+      list-style: outside none none;
+      margin: 0;
+      padding: 0;
+    }
+
 }
